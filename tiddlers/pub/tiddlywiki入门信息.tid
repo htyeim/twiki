@@ -1,0 +1,14 @@
+created: 20231015140717779
+creator: htyeim
+modified: 20231015144151124
+modifier: htyeim
+tags: pub
+title: tiddlywiki入门信息
+tmap.id: bd6603ca-65ff-4ffa-9235-ffc700233564
+type: text/vnd.tiddlywiki
+
+
+* [[中文入门教程|https://tw-cn.netlify.app]]
+* [[一个模块库|https://github.com/tiddly-gittly/Tiddlywiki-NodeJS-Github-Template]]: 对应的说明[[用TiddlyWiki替代Notion和EverNote作为个人知识管理系统 (Chinese)|https://onetwo.ren/%E7%94%A8tiddlywiki%E6%9B%BF%E4%BB%A3notion%E5%92%8Cevernote%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AF%86/ ]]
+
+* [[一个修改版本|https://keatonlao.github.io/tiddlywiki-xp/]]
