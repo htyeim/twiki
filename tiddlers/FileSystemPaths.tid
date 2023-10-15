@@ -1,3 +1,14 @@
 tags: $:/plugins/linonetwo/sub-wiki/readme
 title: $:/config/FileSystemPaths
 type: text/vnd.tiddlywiki
+
+[tag[$:/tags/trashbin]addprefix[subwiki/tiddlers/]]
+
+[is[system]!has[draft.of]removeprefix[$:/]addprefix[_system/]]
+[is[draft]search-replace:g:regexp[/|\\],[_]addprefix[subwiki/tiddlers/drafts/]]
+
+[tag[pub]addprefix[pub/]]
+[!tag[pub]addprefix[subwiki/tiddlers/]]
+
+[tag[task]addprefix[mytasks/]]
+[tag[externalnote]addprefix[externalnote/]]
