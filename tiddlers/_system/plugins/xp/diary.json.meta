@@ -1,0 +1,12 @@
+author: kl
+core-version: >=5.3.0
+created: 20210511065227948
+dependents: $:/plugins/danielo515/encryptTiddler
+description: Manage journal tiddlers
+list: readme
+modified: 20231001012620286
+name: Diary
+plugin-type: plugin
+title: $:/plugins/xp/diary
+type: application/json
+version: 0.3.5

@@ -1,8 +1,8 @@
 created: 20231015143804602
 creator: htyeim
-modified: 20231015143831975
+modified: 20231017153808756
 modifier: htyeim
 title: $:/themes/tiddlywiki/vanilla/metrics/storyleft
 type: text/vnd.tiddlywiki
 
-calc({{$:/xp/leftopentab/metrics/width}} + {{$:/xp/leftopentab/metrics/storyleft}} - {{$:/xp/leftopentab/metrics/storyriverpaddingleft}})
+<$text text={{$:/xp/leftopentab/metrics/storyleft}}/>
