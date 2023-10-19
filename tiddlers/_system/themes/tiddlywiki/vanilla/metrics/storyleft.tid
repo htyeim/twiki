@@ -5,4 +5,4 @@ modifier: htyeim
 title: $:/themes/tiddlywiki/vanilla/metrics/storyleft
 type: text/vnd.tiddlywiki
 
-<$text text={{$:/xp/leftopentab/metrics/storyleft}}/>
+calc({{$:/xp/leftopentab/metrics/width}} + {{$:/xp/leftopentab/metrics/storyleft}} - {{$:/xp/leftopentab/metrics/storyriverpaddingleft}})
