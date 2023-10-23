@@ -1,8 +1,8 @@
 created: 20231017155053483
 creator: htyeim
-modified: 20231017155103636
+modified: 20231023145508356
 modifier: htyeim
 title: $:/config/TimestampDisable
 type: text/vnd.tiddlywiki
 
-yes
+no
